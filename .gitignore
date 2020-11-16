@@ -2,3 +2,4 @@
 .vs/
 # ignore debug files
 Debug/
+SortData/Debug/
