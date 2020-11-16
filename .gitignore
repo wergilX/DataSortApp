@@ -1,0 +1,4 @@
+#ignore settings
+.vs/
+# ignore debug files
+Debug/
