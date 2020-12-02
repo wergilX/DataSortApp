@@ -3,3 +3,8 @@
 # ignore debug files
 Debug/
 SortData/Debug/
+
+*.vcxproj.proj
+SortData/SortData.vcxproj.filters
+SortData/SortData.vcxproj
+*.vcxproj.user
